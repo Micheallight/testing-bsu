@@ -9,8 +9,8 @@
 
 | ID                 | Test Step Description                            | Expected Result                                                                                                                                                                                                                        |
 | ------------------ | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                  | Click the _Kids_ category (in the Header)        | Page with kids clothes is opened                                                                                                                                                                                                       |
-| 2                  | Click on any picture of clothes                  | Personal clothes page is opened                                                                                                                                                                                                        |  
+| 1                  | Click the _Kids_ category (in the Header)        | _Kids clothes_ page is opened                                                                                                                                                                                                       |
+| 2                  | Click on any picture of clothes                  | _Personal clothes_ page is opened                                                                                                                                                                                                        |  
 | 3                  | Click on other clothes color (if there is such)  | Another clothes color is selected, picture with corresponding color is rendered                                                                                                                                                        | 
 | 4                  | Select size/other properties of the clothes      | When all possible properties are selected, the __Add to bag__ button becomes active                                                                                                                                                    | 
 | 5                  | Click the _Add to bag_ button                    | __Added to bag__ popup is opened. Title, id, properties and total price are displayed here. _Added to bag_ title is displayed. __View cart & checkout__ and __Continue shopping__ buttons are displayed. Clothes are added to the bag. |
@@ -21,7 +21,7 @@
 
 - Website https://www.wrangler.com is opened.
 - At least one clothing is added to the bag.
-- All possible popups are closed in such way, that cart in the header is clickable
+- All possible popups are closed in such way, that cart in the header is clickable.
 
 #### Test Steps
 
